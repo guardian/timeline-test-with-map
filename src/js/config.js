@@ -25,6 +25,7 @@ System.config({
     "traceur": "github:jmcriffey/bower-traceur@0.0.91",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.91",
     "twix": "npm:twix@0.9.0",
+    "wnumb": "npm:wnumb@1.0.2",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
